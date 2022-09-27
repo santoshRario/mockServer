@@ -1,11 +1,124 @@
 {
-    "posts": [
-      {
-        "id": 1,
-        "title": "hello"
-      }
-    ],
-    "profile": {
-      "name": "typicode"
+  "homePage": {
+    "result": true,
+    "data": {
+        "createdAt": 1664174623,
+        "locale": "en-US",
+        "cmsPageRefId": "6yIDD7bLwVD4WYAbrqDU5W",
+        "config": {
+          "scrollingStrip": {
+            "title": "Scrolling Strip",
+            "headers": [
+                "D3.Club is now LIVE!",
+                "Enter FREE daily contests",
+                "Win rewards up to ₹2 Crore (USD 250,000)",
+                "Packs sell out in minutes!",
+                "Benefit program for Moment Cards coming soon"
+            ],
+            "isEnabled": true
+          },
+          "cmsPageRefId": "6yIDD7bLwVD4WYAbrqDU5W",
+          "metaTitle": "Digital Collectibles Marketplace for Cricket NFT | Rario | NFT",
+          "eventType": "Entry",
+          "id": 1234,
+          "title": "Rario Home Page",
+          "metaDescription": {
+            "data": {},
+            "nodeType": "document",
+            "content": [
+                {
+                    "data": {},
+                    "nodeType": "paragraph",
+                    "content": [
+                        {
+                            "marks": [],
+                            "data": {},
+                            "nodeType": "text",
+                            "value": "Rario, the world's first officially licensed digital collectibles platform for cricket, enables fans to buy, sell and trade cricket NFTs of their favourite cricketers and cricket leagues!"
+                        }
+                    ]
+                }
+            ]
+          },
+          "heroCard": {
+              "longDescription": {
+                  "nodeType": "document",
+                  "data": {},
+                  "content": [
+                      {
+                          "nodeType": "paragraph",
+                          "data": {},
+                          "content": [
+                              {
+                                  "marks": [],
+                                  "nodeType": "text",
+                                  "data": {},
+                                  "value": "Reserve access to *Legends & Champions* packs now!"
+                              }
+                          ]
+                      },
+                      {
+                          "nodeType": "paragraph",
+                          "data": {},
+                          "content": [
+                              {
+                                  "marks": [],
+                                  "nodeType": "text",
+                                  "data": {},
+                                  "value": "Test Line 2"
+                              }
+                          ]
+                      },
+                      {
+                          "nodeType": "paragraph",
+                          "data": {},
+                          "content": [
+                              {
+                                  "marks": [
+                                      {
+                                          "type": "bold"
+                                      }
+                                  ],
+                                  "nodeType": "text",
+                                  "data": {},
+                                  "value": "Bold Text"
+                              }
+                          ]
+                      }
+                  ]
+              },
+              "header": "Ready for the *main event?*",
+              "shortDescription": {
+                  "data": {},
+                  "nodeType": "document",
+                  "content": [
+                      {
+                          "data": {},
+                          "nodeType": "paragraph",
+                          "content": [
+                              {
+                                  "marks": [],
+                                  "data": {},
+                                  "nodeType": "text",
+                                  "value": "Add megastars from Team *India* and *Australia* to your collection! Play *D3.Club* during the upcoming series and *build your game* leading up to the *T20WC!*"
+                              }
+                          ]
+                      }
+                  ]
+              },
+              "secondaryCta": {
+                  "link": "https://www.d3.club/",
+                  "displayAsLink": true,
+                  "text": "Enter *D3.club*"
+              },
+              "primaryCta": {
+                  "link": "/api/auth/login?redirect_uri=",
+                  "displayAsLink": false,
+                  "text": "RESERVE PACKS"
+              }
+          }
+        },
+        "updatedAt": 1664174623
     }
   }
+}
