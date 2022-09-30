@@ -59,7 +59,19 @@
       },
       "imageMedia": {
         "title": "Ready for main event",
-        "alternateText": "Ready for Main Event"
+        "alternateText": "Ready for Main Event",
+        "file": {
+          "details": {
+              "size": 95631,
+              "image": {
+                  "width": 692,
+                  "height": 546
+              }
+          },
+          "fileName": "Question.png",
+          "contentType": "image/png",
+          "url": "//images.ctfassets.net/e6mgnhpv8n6h/3ylkdtl2Hcmwv6RDV0yjLU/bbb15d5ba2d14bb078613758b60c0978/Question.png"
+        }
       },
       "imagePosition": "Left"
     },
@@ -106,7 +118,19 @@
       },
       "imageMedia": {
         "title": "Ready for main event",
-        "alternateText": "Ready for Main Event"
+        "alternateText": "Ready for Main Event",
+        "file": {
+          "details": {
+              "size": 95631,
+              "image": {
+                  "width": 692,
+                  "height": 546
+              }
+          },
+          "fileName": "Question.png",
+          "contentType": "image/png",
+          "url": "//images.ctfassets.net/e6mgnhpv8n6h/3ylkdtl2Hcmwv6RDV0yjLU/bbb15d5ba2d14bb078613758b60c0978/Question.png"
+      }
       },
       "imagePosition": "Left"
     }
