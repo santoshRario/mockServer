@@ -58,20 +58,47 @@
         "displayAsLink": true
       },
       "imageMedia": {
-        "title": "Ready for main event",
-        "alternateText": "Ready for Main Event",
-        "file": {
-          "details": {
-              "size": 95631,
+        "image": {
+          "title": "Rario Hero card",
+          "description": "",
+          "file": {
+            "details": {
+              "size": 324309,
               "image": {
-                  "width": 692,
-                  "height": 546
+                "width": 512,
+                "height": 512
               }
-          },
-          "fileName": "Question.png",
-          "contentType": "image/png",
-          "url": "//images.ctfassets.net/e6mgnhpv8n6h/3ylkdtl2Hcmwv6RDV0yjLU/bbb15d5ba2d14bb078613758b60c0978/Question.png"
-        }
+            },
+            "fileName": "banner-pic-first-fold-v9.png",
+            "contentType": "image/png",
+            "url": "//images.ctfassets.net/e6mgnhpv8n6h/5D8kkaTqGBAh6VyHVxQAVI/9fd5d2a7b6cbb977948ce7b0e5f0c2ed/banner-pic-first-fold-v9.png"
+          }
+        },
+        "isVideo": false,
+        "imageAlternateText": "ready for the event",
+        "title": "Ready For the Event"
+      },
+      "imagePosition": "Left",
+      "cardBackground": {
+        "title": "Ready For Event Background",
+        "image": {
+          "title": "Ready for Event Background",
+          "description": "",
+          "file": {
+            "details": {
+              "size": 403137,
+              "image": {
+                "width": 1441,
+                "height": 835
+              }
+            },
+            "fileName": "bg_ffold_login_desktop-v1.png",
+            "contentType": "image/png",
+            "url": "//images.ctfassets.net/e6mgnhpv8n6h/6JpjQ1SNagAjBWQ55p0eBG/2db5ed3eef992b21e394de5ccf723595/bg_ffold_login_desktop-v1.png"
+          }
+        },
+        "imageAlternateText": "background"
+      }
       },
       "imagePosition": "Left"
     },
@@ -117,19 +144,46 @@
         "displayAsLink": true
       },
       "imageMedia": {
-        "title": "Ready for main event",
-        "alternateText": "Ready for Main Event",
-        "file": {
-          "details": {
-              "size": 95631,
+        "image": {
+          "title": "Rario Hero card",
+          "description": "",
+          "file": {
+            "details": {
+              "size": 324309,
               "image": {
-                  "width": 692,
-                  "height": 546
+                "width": 512,
+                "height": 512
               }
-          },
-          "fileName": "Question.png",
-          "contentType": "image/png",
-          "url": "//images.ctfassets.net/e6mgnhpv8n6h/3ylkdtl2Hcmwv6RDV0yjLU/bbb15d5ba2d14bb078613758b60c0978/Question.png"
+            },
+            "fileName": "banner-pic-first-fold-v9.png",
+            "contentType": "image/png",
+            "url": "//images.ctfassets.net/e6mgnhpv8n6h/5D8kkaTqGBAh6VyHVxQAVI/9fd5d2a7b6cbb977948ce7b0e5f0c2ed/banner-pic-first-fold-v9.png"
+          }
+        },
+        "isVideo": false,
+        "imageAlternateText": "ready for the event",
+        "title": "Ready For the Event"
+      },
+      "imagePosition": "Left",
+      "cardBackground": {
+        "title": "Ready For Event Background",
+        "image": {
+          "title": "Ready for Event Background",
+          "description": "",
+          "file": {
+            "details": {
+              "size": 403137,
+              "image": {
+                "width": 1441,
+                "height": 835
+              }
+            },
+            "fileName": "bg_ffold_login_desktop-v1.png",
+            "contentType": "image/png",
+            "url": "//images.ctfassets.net/e6mgnhpv8n6h/6JpjQ1SNagAjBWQ55p0eBG/2db5ed3eef992b21e394de5ccf723595/bg_ffold_login_desktop-v1.png"
+          }
+        },
+        "imageAlternateText": "background"
       }
       },
       "imagePosition": "Left"
